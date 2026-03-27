@@ -31,7 +31,7 @@ A simple **text-based Hangman Game** built using Python. The player guesses a ra
 ```bash
 git clone https://github.com/Rithika-B-7/CodeAlpha_HangmanGame.git
 cd CodeAlpha_HangmanGame
-python3 hangman.py
+python Hangman_game.py
 ```
 
 ---
