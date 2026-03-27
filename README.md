@@ -47,4 +47,5 @@ python3 hangman.py
 ## 👩‍💻 Author
 
 **Rithika B**
+
 CSE Student | Panimalar Engineering College
